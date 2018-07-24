@@ -1,0 +1,17 @@
+#text-container {
+	border: solid thin;
+	color: red;
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+	
+}
+
+#content-table {
+	height: 550px;
+	overflow-y: scroll;
+}
+
+.col-sm-offset-2 col-sm-10{
+	float: right;
+}
